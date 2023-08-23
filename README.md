@@ -46,7 +46,7 @@ Sadece bir dil veya bir teknoloji ile sınırlı kalmak yerine, geniş bir yelpa
 |    Swift             | PHP Laravel     | JSP                    |CSS  |
 | Java                  | Authentication         | MVC                    |    HTML |
 | C         |Exception Handling      | JSON                   | JavaScript     |
-| Arduino       | Spring Cloud Gateway    | Spring Cloud OpenFeign |Hibernate,JPA |
+| Arduino       | Spring     | Mobile |Hibernate,JPA |
 
 
 
